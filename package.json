@@ -1,0 +1,31 @@
+{
+  "name": "rtd",
+  "version": "1.0.0",
+  "description": "Simple isomorphic router",
+  "license": "MIT",
+  "repository": "herber/rtd",
+  "author": {
+    "name": "Tobias Herber",
+    "email": "40146720150275@litec.ac.at",
+    "url": "tobihrbr.com"
+  },
+  "engines": {
+    "node": ">=8"
+  },
+  "scripts": {
+    "test": "formatted"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    ""
+  ],
+  "dependencies": {
+    "rtd-core": "^1.0.1"
+  },
+  "devDependencies": {
+    "formatted": "^1.0.0"
+  },
+  "formatted": {}
+}
